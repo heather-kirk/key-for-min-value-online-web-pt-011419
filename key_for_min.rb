@@ -8,3 +8,5 @@ def key_for_min_value(hash)
   value = "nil"
 end
 end
+new_hash  
+end
