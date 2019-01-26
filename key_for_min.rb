@@ -2,11 +2,11 @@
 # Given a hash with numeric values, return the key for the smallest value
 
 def key_for_min_value(hash)
-  kimchi- = ""
+  kimchi = ""
  if hash.each do |key, value|
    kimchi = first 
  else 
-  kimchi = {}
+  hash
 end
 end
 kimchi
